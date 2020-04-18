@@ -98,7 +98,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  Visibility: hidden
+  Visibility: hidden;
   overflow: hidden;
   display: flex;
   align-items: center;
